@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cs_con_HelloWorld</name>
+    </assembly>
+    <members>
+        <member name="T:cs_con_HelloWorld.Program">
+            <summary>
+            my first c# program
+            </summary>
+        </member>
+        <member name="M:cs_con_HelloWorld.Program.Main(System.String[])">
+            <summary>
+                the main method
+                <seealso cref="M:cs_con_HelloWorld.Program.Demo"/>
+                <seealso cref="M:cs_con_HelloWorld.Program.Add(System.Int32,System.Int32)"/>
+                <seealso cref="M:System.Console.WriteLine(System.String)"/>
+            </summary>
+            <param name="args">command line arguments</param>
+        </member>
+        <member name="M:cs_con_HelloWorld.Program.Add(System.Int32,System.Int32)">
+            <summary>
+            Add two numbers
+            </summary>
+            <example>Add(10, 20)</example>
+            <param name="x">first Name</param>
+            <param name="y">Second Name</param>
+            <returns></returns>
+        </member>
+        <member name="M:cs_con_HelloWorld.Program.Add(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Add 3 numbers
+            </summary>
+            <example>
+                int a =10, b =20, c=30;
+                int result = Add(a, b, c);
+            </example>
+            <param name="x">first Number</param>
+            <param name="y">Second Number</param>
+            <param name="z">third Number</param>
+            <returns>sum of 3 numbers</returns>
+        </member>
+    </members>
+</doc>

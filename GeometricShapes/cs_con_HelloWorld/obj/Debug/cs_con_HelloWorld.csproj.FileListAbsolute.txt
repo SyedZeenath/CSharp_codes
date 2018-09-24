@@ -1,0 +1,8 @@
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_HelloWorld\bin\Debug\cs_con_HelloWorld.exe.config
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_HelloWorld\bin\Debug\cs_con_HelloWorld.exe
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_HelloWorld\bin\Debug\cs_con_HelloWorld.pdb
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_HelloWorld\obj\Debug\cs_con_HelloWorld.csprojAssemblyReference.cache
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_HelloWorld\obj\Debug\cs_con_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_HelloWorld\obj\Debug\cs_con_HelloWorld.exe
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_HelloWorld\obj\Debug\cs_con_HelloWorld.pdb
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_HelloWorld\bin\Debug\cs_con_HelloWorld.xml

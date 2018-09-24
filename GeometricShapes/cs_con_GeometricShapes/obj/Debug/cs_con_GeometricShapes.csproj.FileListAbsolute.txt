@@ -1,0 +1,7 @@
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_GeometricShapes\bin\Debug\cs_con_GeometricShapes.exe.config
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_GeometricShapes\bin\Debug\cs_con_GeometricShapes.exe
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_GeometricShapes\bin\Debug\cs_con_GeometricShapes.pdb
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_GeometricShapes\obj\Debug\cs_con_GeometricShapes.csprojAssemblyReference.cache
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_GeometricShapes\obj\Debug\cs_con_GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_GeometricShapes\obj\Debug\cs_con_GeometricShapes.exe
+C:\Users\zeenaa\source\repos\dotnetCodes\MyDemos\cs_con_GeometricShapes\obj\Debug\cs_con_GeometricShapes.pdb
